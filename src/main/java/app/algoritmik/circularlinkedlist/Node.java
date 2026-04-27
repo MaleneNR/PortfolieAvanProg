@@ -1,4 +1,4 @@
-package app.algoritmik.circularlinkedlistsolution;
+package app.algoritmik.circularlinkedlist;
 
 class Node {
     int value;
