@@ -70,6 +70,13 @@
             <version>${javalin.version}</version>
         </dependency>
 
+        <!--  Processing    -->
+        <dependency>
+            <groupId>org.processing</groupId>
+            <artifactId>core</artifactId>
+            <version>3.3.7</version>
+        </dependency>
+
         <!--  DB    -->
         <dependency>
             <groupId>org.postgresql</groupId>
